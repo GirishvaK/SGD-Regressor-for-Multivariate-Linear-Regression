@@ -84,6 +84,7 @@ RegisterNumber:25009292
 
 ## Output:
 Trained Weights (including intercept): [68.00600913 10.21035043  3.21184007  6.00928327]
+
 Predicted values: [49.53368945 44.96389764 70.63122027 80.51508398 94.38615431]
 
 ## Result:
